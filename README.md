@@ -28,7 +28,7 @@ This project is a simple and efficient QR Code Generator built with React.js.
 
 ## Live Demo
 
-Access the live application [here](https://antonrosh.dev/qr-code-component/).
+The former hosted demo is unavailable. Run the project locally using the steps below.
 
 ## Getting Started
 
@@ -37,7 +37,7 @@ Access the live application [here](https://antonrosh.dev/qr-code-component/).
 2. Clone this repository.
 
    ```
-   git clone https://github.com/antonrosh/qr-code-component.git
+   git clone https://github.com/antongulin/qr-code-component.git
    ```
 
 3. Navigate to the directory of the cloned repository.
@@ -62,4 +62,4 @@ Access the live application [here](https://antonrosh.dev/qr-code-component/).
 
 ## Contact
 
-If you have any questions, feel free to open an issue or contact me directly at rosh8442@gmail.com.
+If you have any questions, feel free to open an issue or contact me directly at i@anton.qa.
