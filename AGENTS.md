@@ -94,6 +94,17 @@ Run only what the change can break.
   `upload-artifact@v3`, so a failing run may reflect the workflow, not the app. Verify current run
   results before claiming success, and verify the live demo URL rather than assuming a deploy.
 
+## DOX discipline
+
+- `AGENTS.md` files are binding contracts for their subtrees. Before editing, read this root and
+  every applicable child contract; the nearest contract adds local details without weakening DOX.
+- After meaningful changes, reconcile affected contracts, file indexes and human documentation.
+  Keep stable rules here and execution evidence in task records; remove stale instructions.
+- Add a child only for a durable ownership boundary. Its sections are Purpose, Ownership, Local
+  Contracts, Work Guidance, Verification, and Child DOX Index; the parent indexes each direct child.
+- Before closeout, recheck the changed paths and affected parent/child indexes, run relevant existing
+  checks, and report documents left unchanged with the reason.
+
 ## Child DOX Index
 
 None. The tree is flat enough that this root file is the whole contract.
