@@ -28,7 +28,7 @@ This project is a simple and efficient QR Code Generator built with React.js.
 
 ## Live Demo
 
-The former hosted demo is unavailable. Run the project locally using the steps below.
+Access the live application [here](https://antongulin.github.io/qr-code-component/).
 
 ## Getting Started
 
